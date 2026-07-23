@@ -1,1 +1,7 @@
 *.pkl
+# Track specific model files so they're visible on GitHub
+!output_files/house_price_rf_model.pkl
+!output_files/model_columns.pkl
+!output_files/standard_scaler.pkl
+!model_columns.pkl
+!standard_scaler.pkl
